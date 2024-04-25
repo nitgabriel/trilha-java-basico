@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.interfaces;
 
 public interface AparelhoTelefonico {
     void ligar(String numero);

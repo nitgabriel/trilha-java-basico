@@ -1,7 +1,7 @@
-package br.com.dio;
+package br.com.dio.interfaces;
 
 public interface NavegadorInternet {
-    void exibirPagina();
+    void exibirPagina(String url);
     void adicionarNovaAba();
     void atualizarPagina();
 }

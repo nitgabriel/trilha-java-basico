@@ -1,7 +1,5 @@
 package br.com.dio.iphone;
 
-import java.util.Scanner;
-
 import br.com.dio.interfaces.*;
 
 
